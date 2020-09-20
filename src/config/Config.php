@@ -11,4 +11,5 @@ class Config
     const TIMEOUT = 6;
     //请求的api地址
     const URL = 'http://www.wujianyang.com/index/';
+    const TEST = 'http://www.test.com/index/';
 }
